@@ -1,1 +1,0 @@
-receive-lp1.dg.srv.nintendo.net
